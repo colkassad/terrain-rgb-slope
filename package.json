@@ -1,0 +1,25 @@
+{
+  "name": "terrain-rgb-slope",
+  "version": "0.0.1",
+  "description": "Converts 32 bit RGB-encoded height map PNGs to 16 bit PNGs depicting slope",
+  "main": "./lib/TerrainRgbSlope.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colkassad/terrain-rgb-slope.git"
+  },
+  "keywords": [
+    "terrain-rgb"
+  ],
+  "author": "Shane Brennan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colkassad/terrain-rgb-slope/issues"
+  },
+  "homepage": "https://github.com/colkassad/terrain-rgb-slope#readme"
+}
