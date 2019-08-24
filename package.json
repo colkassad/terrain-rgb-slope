@@ -6,9 +6,6 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/colkassad/terrain-rgb-slope.git"
@@ -17,9 +14,10 @@
     "terrain-rgb"
   ],
   "author": "Shane Brennan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/colkassad/terrain-rgb-slope/issues"
   },
-  "homepage": "https://github.com/colkassad/terrain-rgb-slope#readme"
+  "homepage": "https://github.com/colkassad/terrain-rgb-slope#readme",
+  "dependencies": {}
 }
