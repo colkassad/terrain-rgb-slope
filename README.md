@@ -14,3 +14,8 @@ var options = {
   inputFilePath: '/path/to/my/terrain-rgb-tile.png',
   outputFilePath: '/path/to/output/16bit-slope.png'
 };
+
+converter.convertToSlope(options, function() {
+  console.log("Finished.");
+});
+
