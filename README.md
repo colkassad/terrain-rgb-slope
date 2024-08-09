@@ -1,5 +1,5 @@
 # terrain-rgb-slope
-Converts Mapbox's [Terrain-RGB](https://docs.mapbox.com/help/troubleshooting/access-elevation-data/) PNG tiles to 16 bit greyscale PNGs depicting integer slope percentage. [See here](http://www.redshifted.org/) for an online demo.
+Converts Mapbox's [Terrain-RGB](https://docs.mapbox.com/help/troubleshooting/access-elevation-data/) PNG tiles to 16 bit greyscale PNGs depicting integer slope percentage. See [my demo map repository]((https://github.com/colkassad/terrain-rgb-demo-map)) for an example implementation.
 
 # Installation
 
